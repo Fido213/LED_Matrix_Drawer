@@ -5,7 +5,11 @@ Note that this is the first phase refer to [Planned Features](#planned-features)
 
 ## Clip
 
+![Overview](clips/slowpan.gif)
 
+![Usage](clips/active-use.gif)
+
+![Reset](clips/reset.gif)
 
 ## Hardware
 * Arduino uno R4 Wifi   &rarr; Controller
