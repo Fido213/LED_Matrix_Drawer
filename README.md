@@ -5,7 +5,9 @@ Note that this is the first phase refer to [Planned Features](#planned-features)
 
 ## Clip
 
-![Slow Pan](Slowpan.gif)
+<p align="center">
+  <img src="Slowpan.gif" alt="LED Matrix Drawer Demo" width="600">
+</p>
 
 ## Hardware
 * Arduino uno R4 Wifi   &rarr; Controller
