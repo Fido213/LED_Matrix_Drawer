@@ -4,7 +4,8 @@ An interactive sketching interface utilising Arduino r4 wifi's built in 12x8 LED
 Note that this is the first phase refer to [Planned Features](#planned-features).
 
 ## Clip
-![7cc5abba-20e3-425a-9b16-cbd79b27f27a](slowpan.gif)
+
+![Slow Pan](slowpan.gif)
 
 ## Hardware
 * Arduino uno R4 Wifi   &rarr; Controller
