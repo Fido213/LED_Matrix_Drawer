@@ -1,10 +1,10 @@
 # LED Matrix Drawer
 ## Overview
 An interactive sketching interface utilising Arduino r4 wifi's built in 12x8 LED matrix, a joystick and 2 leds. Features real time toggling (drawing/erasing) aswell as quality of life features (responsive feedback, etc)
-Note that this is the first phase refer <a href=#Planned features> 
+Note that this is the first phase refer to [Planned Features](#planned-features).
 
 ## Clip
-![7cc5abba-20e3-425a-9b16-cbd79b27f27a](https://github.com/user-attachments/assets/2db1a933-32ed-4c27-bcc3-78d5a867fd4e)
+![7cc5abba-20e3-425a-9b16-cbd79b27f27a](slowpan.gif)
 
 ## Hardware
 * Arduino uno R4 Wifi   &rarr; Controller
