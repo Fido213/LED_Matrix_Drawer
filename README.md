@@ -5,8 +5,6 @@ Note that this is the first phase refer <a href=#Planned features>
 
 ## Clip
 ![7cc5abba-20e3-425a-9b16-cbd79b27f27a](https://github.com/user-attachments/assets/2db1a933-32ed-4c27-bcc3-78d5a867fd4e)
-https://github.com/user-attachments/assets/876c9e50-3dfd-40f8-82c1-2a620e71e65a
-https://github.com/user-attachments/assets/cabcf021-457a-444e-95d8-90551d842fc0
 
 ## Hardware
 * Arduino uno R4 Wifi   &rarr; Controller
