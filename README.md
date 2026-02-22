@@ -5,7 +5,7 @@ Note that this is the first phase refer to [Planned Features](#planned-features)
 
 ## Clip
 
-![Slow Pan](slowpan.gif)
+![Slow Pan](Slowpan.gif)
 
 ## Hardware
 * Arduino uno R4 Wifi   &rarr; Controller
